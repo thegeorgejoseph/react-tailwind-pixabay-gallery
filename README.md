@@ -2,12 +2,15 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-This is a gallery webapp created using the Pixabay API to fetch images from the internet according to user search and to dynamically replace them.
-Methods learnt in this mini project:
-Styling using Tailwindcss.
-Creating functional components using React Hooks.
-Fetching a json response from an API.
-Using {useState} to handle change in query.
+This is a gallery webapp created to learn to use the Pixabay API to fetch images from the internet according to user search and to dynamically replace the cards with the results.\
+Methods learnt in this mini project:\
+Styling using Tailwindcss.\
+Creating functional components using React Hooks.\
+Fetching a json response from an API.\
+Using {useState} to handle change in query.\
+
+<img width="1401" alt="image" src="https://user-images.githubusercontent.com/37734939/115543536-18980000-a2bf-11eb-8546-acbc46f78131.png">
+
 
 ## Available Scripts
 
